@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background:#5980b9;
+    background:#2b86fcdc;
     font-family:"Baloo Tamma 2", cursive;
 }
 .m-heading{
@@ -13,6 +13,6 @@ body{
 }
 .navigation-link:hover{
     text-decoration:none;
-    border-bottom:2px solid#ec47d6;
+    border-bottom:2px solid#ec478c;
     transition:0.5 ease;
 }
